@@ -17,6 +17,7 @@ My first real rust program (only 80% skidded)
 ### Example
 Linux:
 `./video-converter --path (path)/video_converter/assets/BadApple.mp4 --fps 45.0 --autosize`
+<br>
 Windows:
 `video-converter.exe --path (path)/video_converter/assets/BadApple.mp4 --fps 45.0 --autosize`
 
