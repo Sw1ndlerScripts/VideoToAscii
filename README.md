@@ -15,10 +15,10 @@ My first real rust program (only 80% skidded)
 2. Run `video-converter --path "path-to-video"` in command prompt
 
 ### Example
-Linux:
+- Linux:
 `./video-converter --path (path)/video_converter/assets/BadApple.mp4 --fps 45.0 --autosize`
-<br>
-Windows:
+
+- Windows:
 `video-converter.exe --path (path)/video_converter/assets/BadApple.mp4 --fps 45.0 --autosize`
 
 ### Arguments
