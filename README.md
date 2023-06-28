@@ -14,6 +14,9 @@ My first real rust program (only 80% skidded)
 1. Download `video-converter`
 2. Run `video-converter --path "path-to-video"` in command prompt
 
+### Example
+`video-converter --path assets/BadApple.mp4 --fps 45.0 --autosize`
+
 ### Arguments
 - `--path` (required) - string path
 - `--autosize` (false) - flag
